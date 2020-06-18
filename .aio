@@ -1,0 +1,20 @@
+{
+  "cna": {},
+  "services": [
+    {
+      "code": "AdobeTargetSDK"
+    },
+    {
+      "code": "AdobeAnalyticsSDK"
+    },
+    {
+      "code": "CampaignSDK"
+    },
+    {
+      "code": "McDataServicesSdk"
+    },
+    {
+      "code": "AudienceManagerCustomerSDK"
+    }
+  ]
+}

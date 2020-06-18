@@ -1,0 +1,34 @@
+/*
+* <license header>
+*/
+
+
+html, body {
+  margin: 0;
+}
+
+.provider {
+  height: 100vh;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+}
+
+.main-title {
+  margin: 15px auto 20px auto;
+}
+
+.main-doc {
+  margin: auto auto 20px auto;
+  flex-direction: column;
+}
+
+.doc-item {
+  margin: auto auto 3px auto;
+}
+
+.doc-title {
+  margin: auto auto 10px auto;
+}
